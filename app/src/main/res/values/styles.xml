@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.UrbanMoveSmart" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">#F3F8F8</item>
+        <item name="android:navigationBarColor">#F3F8F8</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+</resources>
